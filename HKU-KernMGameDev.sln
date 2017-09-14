@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheezeBot", "CheezeBot\CheezeBot.csproj", "{344CCAFF-65F2-4F09-860B-AC895F9B2D52}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W1-CheezeBot-Refactor", "Week 1\CheezeBotRefactor\W1-CheezeBot-Refactor.csproj", "{344CCAFF-65F2-4F09-860B-AC895F9B2D52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DamageApp", "Week2\Oefenopgaves\DamageApp\DamageApp.csproj", "{BDCA6FBB-3812-4D22-A48F-9559CCA31630}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +17,15 @@ Global
 		{344CCAFF-65F2-4F09-860B-AC895F9B2D52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{344CCAFF-65F2-4F09-860B-AC895F9B2D52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{344CCAFF-65F2-4F09-860B-AC895F9B2D52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDCA6FBB-3812-4D22-A48F-9559CCA31630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDCA6FBB-3812-4D22-A48F-9559CCA31630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDCA6FBB-3812-4D22-A48F-9559CCA31630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDCA6FBB-3812-4D22-A48F-9559CCA31630}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E42F02B5-87C1-4996-B793-C7E42D4832D4}
 	EndGlobalSection
 EndGlobal
