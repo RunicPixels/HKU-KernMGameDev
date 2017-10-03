@@ -12,12 +12,13 @@ Pickups will increase the following stats of the player :
 - Player Speed +-
 - Player Lives +
 
-# Game Structure and scene flow
+# Game Structure and Scene Flow
 The game will feature 4(or 5 if the option menu gets an individual scene while in game) scenes which are
 - Main Menu
 - Game
 - Score Menu
 - Options Menu
+
 The relation between these scenes can be found inside the activity diagram found within the UML folder of this project.
 
 # Learning Goals
