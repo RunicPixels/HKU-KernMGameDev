@@ -40,9 +40,9 @@ I want to learn about the following aspects of C# development.
 - [x] Finish UML Acitivity Diagram.
 - [x] Determine which patterns to learn.
 - [x] Technic Plan.
-- [ ] Empty Class Mockup.
+- [x] Empty Class Mockup.
 - [x] Work on Scene Flow. (Menu - Game - Finish Screen)
-- [ ] Work on implementing basic functionality (Movement -> Map Instancing).
+- [ ] Work on implementing basic functionality (Movement -> Map Instancing). 
 ### Week 5 (5/10 - 12/10) 
 - [ ] Finish basic functionality (Movement, Map Instancing).
 - [ ] Work on gameplay functionality (Shooting -> Tile Destruction -> Explosion Radius, Projectile Behavior.
