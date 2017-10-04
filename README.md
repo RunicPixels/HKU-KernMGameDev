@@ -1,5 +1,6 @@
 # KernMGameDev
 Kernmodule Game Development HKU
+The Rocketeer Man Project can be found [here[(https://github.com/Cheezegami/HKU-KernMGameDev/tree/master/Rocketeer%20Man%20Files/UML)
 
 # Idea
 The idea is to make a bomberman game using rocket launchers instead of dropping bombs. The most important feature is to get working characters in the level which are able to walk and shoot rockets. These rockets are able to hit other characters as well as bricks. Bricks may drop pick-ups upon exploding and will give the player more exposure to the terrain once destroyed. Players start locked in my bricks and will after destroying a few bricks be able to shoot rockets at other players.
@@ -19,14 +20,16 @@ The game will feature 4(or 5 if the option menu gets an individual scene while i
 - Score Menu
 - Options Menu
 
-The relation between these scenes can be found inside the activity diagram found within the UML folder of this project.
+The relation between these scenes can be found inside the [activity diagram and class diagram](https://github.com/Cheezegami/HKU-KernMGameDev/tree/master/Rocketeer%20Man%20Files/UML) found within the UML folder of this project.
 
 # Learning Goals
 I want to learn about the following aspects of C# development.
 - Proper use of polymorphism and class instantiation within Unity.
 - Using Class Properties and Constructor Parameters.
 - Proper use of static classes/methods and switch statements within the Unity Environment.
+- Using a preloaded scene and game manager within Unity and/or a Singleton as a solution to that.
 - Interfaces and perhaps generics if I can find a way to fit it into my game.
+- Making awesome games.
 
 # Technic Plan - Kernmodule Game Development 1
 ### Week 1
