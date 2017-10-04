@@ -1,7 +1,7 @@
 # KernMGameDev
 Kernmodule Game Development HKU, By Ronald van Egdom, studentnummer 3018119.
 
-The Rocketeer Man Project (Retro Game Assignment) can be found [here](https://github.com/Cheezegami/HKU-KernMGameDev/tree/master/Rocketeer%20Man%20Files/UML).
+The Rocketeer Man Project (Retro Game Assignment) can be found [here](https://github.com/Cheezegami/HKU-KernMGameDev/tree/master/Rocketeer%20Man%20Files).
 
 # Idea
 The idea is to make a bomberman game using rocket launchers instead of dropping bombs. The most important feature is to get working characters in the level which are able to walk and shoot rockets. These rockets are able to hit other characters as well as bricks. Bricks may drop pick-ups upon exploding and will give the player more exposure to the terrain once destroyed. Players start locked in my bricks and will after destroying a few bricks be able to shoot rockets at other players.
