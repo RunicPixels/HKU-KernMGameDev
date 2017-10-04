@@ -1,15 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.16
+VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W1-CheezeBot-Refactor", "Week 1\CheezeBotRefactor\W1-CheezeBot-Refactor.csproj", "{344CCAFF-65F2-4F09-860B-AC895F9B2D52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DamageApp", "Week2\Oefenopgaves\DamageApp\DamageApp.csproj", "{BDCA6FBB-3812-4D22-A48F-9559CCA31630}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface in your face", "Week 2\Interface in your face\Interface in your face.csproj", "{7003288A-F9BE-1C8A-3B8B-CAFAD2EAC71C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiniteStateMachine", "FiniteStateMachine\FiniteStateMachine.csproj", "{9478A8C5-5ADB-4F3F-B75D-B46B4A829CA5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DamageApp", "Week 2\Oefenopgaves\DamageApp\DamageApp.csproj", "{BDCA6FBB-3812-4D22-A48F-9559CCA31630}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Les4Werk", "Les4Werk\Les4Werk.csproj", "{2D0BFF85-D2A5-48CA-974E-40663FCDE3E3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiniteStateMachine", "Week 3\FiniteStateMachine\FiniteStateMachine.csproj", "{9478A8C5-5ADB-4F3F-B75D-B46B4A829CA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Les4Werk", "Week 4\Les4Werk.csproj", "{2D0BFF85-D2A5-48CA-974E-40663FCDE3E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rocketeerman", "Rocketeer Man Files\Rocketeerman\Rocketeerman.csproj", "{4E657B3A-1E0E-3BFE-712D-121D107A86E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,10 @@ Global
 		{344CCAFF-65F2-4F09-860B-AC895F9B2D52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{344CCAFF-65F2-4F09-860B-AC895F9B2D52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{344CCAFF-65F2-4F09-860B-AC895F9B2D52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7003288A-F9BE-1C8A-3B8B-CAFAD2EAC71C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7003288A-F9BE-1C8A-3B8B-CAFAD2EAC71C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7003288A-F9BE-1C8A-3B8B-CAFAD2EAC71C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7003288A-F9BE-1C8A-3B8B-CAFAD2EAC71C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BDCA6FBB-3812-4D22-A48F-9559CCA31630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BDCA6FBB-3812-4D22-A48F-9559CCA31630}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDCA6FBB-3812-4D22-A48F-9559CCA31630}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,6 +41,10 @@ Global
 		{2D0BFF85-D2A5-48CA-974E-40663FCDE3E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D0BFF85-D2A5-48CA-974E-40663FCDE3E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D0BFF85-D2A5-48CA-974E-40663FCDE3E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E657B3A-1E0E-3BFE-712D-121D107A86E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E657B3A-1E0E-3BFE-712D-121D107A86E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E657B3A-1E0E-3BFE-712D-121D107A86E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E657B3A-1E0E-3BFE-712D-121D107A86E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
