@@ -41,7 +41,7 @@ I want to learn about the following aspects of C# development.
 - [x] Determine which patterns to learn.
 - [x] Technic Plan.
 - [ ] Empty Class Mockup.
-- [ ] Work on Scene Flow. (Menu - Game - Finish Screen)
+- [x] Work on Scene Flow. (Menu - Game - Finish Screen)
 - [ ] Work on implementing basic functionality (Movement -> Map Instancing).
 ### Week 5 (5/10 - 12/10) 
 - [ ] Finish basic functionality (Movement, Map Instancing).
