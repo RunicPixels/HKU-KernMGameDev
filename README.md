@@ -30,6 +30,7 @@ I want to learn about the following aspects of C# development.
 - Proper use of static classes/methods and switch statements within the Unity Environment.
 - Using a preloaded scene and game manager within Unity and/or a Singleton as a solution to that.
 - Interfaces and perhaps generics if I can find a way to fit it into my game.
+- Object Pools
 - Making awesome games.
 
 # Technic Plan - Kernmodule Game Development 1
