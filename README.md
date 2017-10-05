@@ -22,7 +22,7 @@ The game will feature 4(or 5 if the option menu gets an individual scene while i
 - Options Menu
 
 This does not include the
-- PreLoad Scene
+- Preload Scene
 
 The game will boot into to instantiate important game features.
 
