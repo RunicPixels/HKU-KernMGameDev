@@ -30,6 +30,7 @@ The relation between these scenes can be found inside the [activity diagram and 
 
 # Learning Goals
 I want to learn about the following aspects of C# development.
+- Using a namespace related to a company I want to found.
 - Proper use of polymorphism and class instantiation within Unity.
 - Using Class Properties and Constructor Parameters.
 - Proper use of static classes/methods and switch statements within the Unity Environment.
