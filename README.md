@@ -23,6 +23,7 @@ The game will feature 4(or 5 if the option menu gets an individual scene while i
 
 This does not include the
 - PreLoad Scene
+
 The game will boot into to instantiate important game features.
 
 The relation between these scenes can be found inside the [activity diagram and class diagram](https://github.com/Cheezegami/HKU-KernMGameDev/tree/master/Rocketeer%20Man%20Files/UML) found within the UML folder of this project.
