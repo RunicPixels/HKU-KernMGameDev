@@ -1,7 +1,6 @@
 using UnityEngine;
 using System.Collections;
 using CoolCast;
-using UnityEngine.SceneManagement;
 
 namespace CoolCast {
     public class Loader : MonoBehaviour {
