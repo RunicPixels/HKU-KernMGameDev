@@ -38,6 +38,7 @@ I want to learn about the following aspects of C# development.
 - Interfaces and perhaps generics if I can find a way to fit it into my game.
 - Look into including delegates and/or events.
 - Object Pools
+- Beta Unity Feature : TileMaps.
 - Making awesome games.
 
 # Technic Plan - Kernmodule Game Development 1
