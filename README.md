@@ -57,7 +57,7 @@ I want to learn about the following aspects of C# development.
 - [x] Work on Scene Flow. (Menu - Game - Finish Screen)
 - [x] Work on implementing basic functionality (Character, ~~Movement~~ -> ~~Map Instancing~~). 
 ### Week 5 (5/10 - 12/10) 
-- [ ] Finish basic functionality (Character, Movement, Map Instancing).
+- [x] Finish basic functionality (Character, Movement, Map Instancing).
 - [ ] Work on gameplay functionality (Shooting -> Tile Destruction -> Explosion Radius, Projectile Behavior.
 ### Week 6 (12/10 - 19/10)
 - [ ] Finish gameplay functionality (Shooting -> Tile Destruction -> Explosion Radius, Projectile Behavior).
