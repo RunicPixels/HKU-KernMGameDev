@@ -57,11 +57,20 @@ I want to learn about the following aspects of C# development.
 - [x] Work on Scene Flow. (Menu - Game - Finish Screen)
 - [x] Work on implementing basic functionality (Character, ~~Movement~~ -> ~~Map Instancing~~). 
 ### Week 5 (5/10 - 12/10) 
-- [x] Finish basic functionality (Character, Movement, Map Instancing).
-- [ ] Work on gameplay functionality (Shooting -> Tile Destruction -> Explosion Radius, Projectile Behavior.
+- [ ] Finish basic functionality (Character -> Tilemap -> Movement -> Projectile).
+  - [x] Character
+  - [x] Tilemap
+  - [x] Movement
+  - [ ] Projectile
+- [ ] Work on gameplay functionality (Shooting -> Projectile Behavior -> Tile Destruction -> Explosion Radius -> 
+  - [x] Shooting - Still needs aiming.
+  - [ ] Projectile Behaviour
+  - [ ] Tile Destruction
+  - [ ] Explosion Radius
+
 ### Week 6 (12/10 - 19/10)
-- [ ] Finish gameplay functionality (Shooting -> Tile Destruction -> Explosion Radius, Projectile Behavior).
-- [ ] Work on Core functionality (UI & Menu's -> Gameplay Flow (AI Instancing, Winning, Selection, Options) -> AI Behavior/Multiplayer mode).
+- [ ] Finish gameplay functionality (Shooting -> Tile Destruction -> Explosion Radius -> Projectile Behavior).
+- [ ] Work on Core functionality (Pick-Ups -> UI & Menu's -> Gameplay Flow (AI Instancing, Winning, Selection, Options) -> AI Behavior/Multiplayer mode).
 - [ ] \(Optional) Make Multiplayer mode.
 ### Week 7 (19/10 - 26/10)
 - [ ] Bug testing.
