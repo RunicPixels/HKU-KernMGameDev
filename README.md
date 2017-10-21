@@ -81,11 +81,14 @@ I want to learn about the following aspects of C# development.
   - [ ] AI
 - [ ] \(Optional) Make Multiplayer mode.
 ### Week 7 (19/10 - 26/10)
-- [ ] Bug testing.
 - [ ] Finish Core Functionality.
   - [ ] Pick-ups
   - [x] UI & Menu's
   - [ ] Gameplay Flow
   - [ ] AI
 - [ ] Finish Missing Functionality.
+- [ ] Code Optimizations
+- [ ] Create Video/Trailer
+- [ ] Finish Deliverables
+- [ ] Fix Build Problems
 
