@@ -69,19 +69,23 @@ I want to learn about the following aspects of C# development.
   - [x] Explosion Radius
 
 ### Week 6 (12/10 - 19/10)
-- [ ] Finish gameplay functionality (Shooting -> Projectile Behavior -> Tile Destruction -> Explosion Radius).
-  - [ ] Shooting
-  - [ ] Projectile Behaviour
-  - [ ] Tile Destruction
-  - [ ] Explosion Radius - and animation
-- [ ] Work on Core functionality (Pick-Ups -> UI & Menu's -> Gameplay Flow (AI Instancing, Winning, Selection, Options) -> AI Behavior/Multiplayer mode).
-  - [ ] Pick-ups
+- [x] Finish gameplay functionality (Shooting -> Projectile Behavior -> Tile Destruction -> Explosion Radius).
+  - [x] Shooting
+  - [x] Projectile Behaviour
+  - [x] Tile Destruction
+  - [x] Explosion Radius - and animation
+- [x] Work on Core functionality (Pick-Ups -> UI & Menu's -> Gameplay Flow (AI Instancing, Winning, Selection, Options) -> AI Behavior/Multiplayer mode).
+  - [-] Pick-ups
   - [x] UI & Menu's
-  - [ ] Gameplay Flow
-  - [ ] AI
+  - [-] Gameplay Flow
+  - [-] AI
 - [ ] \(Optional) Make Multiplayer mode.
 ### Week 7 (19/10 - 26/10)
 - [ ] Bug testing.
 - [ ] Finish Core Functionality.
+  - [ ] Pick-ups
+  - [x] UI & Menu's
+  - [ ] Gameplay Flow
+  - [ ] AI
 - [ ] Finish Missing Functionality.
 
