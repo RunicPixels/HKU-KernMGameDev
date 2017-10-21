@@ -75,10 +75,10 @@ I want to learn about the following aspects of C# development.
   - [x] Tile Destruction
   - [x] Explosion Radius - and animation
 - [x] Work on Core functionality (Pick-Ups -> UI & Menu's -> Gameplay Flow (AI Instancing, Winning, Selection, Options) -> AI Behavior/Multiplayer mode).
-  - [-] Pick-ups
+  - [ ] Pick-ups
   - [x] UI & Menu's
-  - [-] Gameplay Flow
-  - [-] AI
+  - [ ] Gameplay Flow
+  - [ ] AI
 - [ ] \(Optional) Make Multiplayer mode.
 ### Week 7 (19/10 - 26/10)
 - [ ] Bug testing.
