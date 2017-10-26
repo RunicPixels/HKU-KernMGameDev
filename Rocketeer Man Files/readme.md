@@ -6,6 +6,6 @@
 
 **Build Zip** : Zip archive for build¹.
 
-**Rocketeerman Source Files.zip ** : Project files to open in Unity.
+**Rocketeerman Source Files.zip** : Project files to open in Unity.
 
 ¹ - Warning As of 2017.2 Tilemaps do not write Animated Tiles. Therefore  the buyuld won't create explosions.
